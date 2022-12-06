@@ -13,7 +13,7 @@
     "muse-ui": "^3.0.2",
     "muse-ui-message": "^0.2.1",
     "muse-ui-toast": "^0.3.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "querystring": "^0.2.0",
     "vant": "^2.4.2",
     "vue": "^2.5.16",
